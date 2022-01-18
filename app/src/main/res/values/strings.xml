@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Home Budget App</string>
+    <string name="income_btn">Income</string>
+    <string name="expenses_btn">Expenses</string>
+    <string name="balance_btn">Currency Converter</string>
+    <string name="settings_btn">Author\'s data</string>
+    <string name="share_btn">Share your data</string>
+    <string name="title_activity_income">Income</string>
+
+
+    <string name="your_balance_text">Total income:</string>
+    <string name="enter_income_text">Enter income:</string>
+    <string name="cash_btn">Cash</string>
+    <string name="bank_btn">Bank</string>
+    <string name="balance_data" translatable="false">0.00</string>
+    <string name="income_hint_data" translatable="false">0.00</string>
+
+    <string name="generate_btn">Generate data</string>
+
+    <string name="pd_header">Personal data</string>
+    <string name="pd_header_ch">Data changing</string>
+    <string name="n_text">Name</string>
+    <string name="s_text">Surname</string>
+    <string name="e_text" translatable="false">E-mail</string>
+    <string name="g_h_text" translatable="false">GitHub</string>
+    <string name="name_text">Oleksandr</string>
+    <string name="surname_text">Matushevskyi</string>
+    <string name="email_text" translatable="false">oleksandr.matushevskyi@gmail.com</string>
+    <string name="git_hub_text" translatable="false">omatushevskyi</string>
+    <string name="change_data_btn">Change data</string>
+    <string name="save_data_btn">Save data</string>
+
+    <string name="data_has_changed">Data has been changed</string>
+    <string name="data_has_generated">Data copied. Press Return ◁ button</string>
+
+    <string name="converter_header">Currency Converter</string>
+    <string name="convert_btn">Convert</string>
+
+
+</resources>

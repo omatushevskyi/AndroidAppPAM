@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Home Budget App</string>
+    <string name="income_btn">Dochód</string>
+    <string name="expenses_btn">Wydatki</string>
+    <string name="balance_btn">Stan konta</string>
+    <string name="settings_btn">Dane autora</string>
+    <string name="share_btn">Udostępnij swoje dane</string>
+    <string name="title_activity_income">Dochód</string>
+    <string name="your_balance_text">Całkowity dochód:</string>
+    <string name="enter_income_text">Wpisz dochód:</string>
+    <string name="generate_btn">Generuj dane</string>
+    <string name="pd_header">Dane osobowe</string>
+    <string name="pd_header_ch">Zmiana danych</string>
+    <string name="n_text">Imie</string>
+    <string name="s_text">Nazwisko</string>
+    <string name="change_data_btn">Zmień dane</string>
+    <string name="save_data_btn">Zapisz dane</string>
+    <string name="data_has_changed">Dane zostały zmienione</string>
+    <string name="cash_btn">Gotówka</string>
+    <string name="bank_btn">Konto bankowe</string>
+    <string name="name_text">Oleksandr</string>
+    <string name="surname_text">Matushevskyi</string>
+    <string name="data_has_generated">Dane zostały kopiowane. Naciśnij przycisk Return ◁</string>
+    <string name="converter_header">Przelicznik walut</string>
+    <string name="convert_btn">Konwertować</string>
+</resources>

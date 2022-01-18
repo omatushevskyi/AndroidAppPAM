@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Home Budget App</string>
+    <string name="income_btn">Дохід</string>
+    <string name="expenses_btn">Витрати</string>
+    <string name="balance_btn">Баланс</string>
+    <string name="settings_btn">Дані автора</string>
+    <string name="share_btn">Поділитись даними</string>
+    <string name="title_activity_income">Дохід</string>
+    <string name="your_balance_text">Загальний дохід:</string>
+    <string name="enter_income_text">Введіть дохід:</string>
+    <string name="cash_btn">Готівка</string>
+    <string name="bank_btn">Банківський рахунок</string>
+    <string name="generate_btn">Генерувати дані</string>
+    <string name="pd_header">Персональні дані</string>
+    <string name="pd_header_ch">Зміна даних</string>
+    <string name="n_text">Ім\'я</string>
+    <string name="s_text">Прізвище</string>
+    <string name="name_text">Олександр</string>
+    <string name="surname_text">Матушевський</string>
+    <string name="change_data_btn">Змінити дані</string>
+    <string name="save_data_btn">Зберегти дані</string>
+    <string name="data_has_changed">Дані були змінені</string>
+    <string name="data_has_generated">Дані скопійовані. Натисніть кнопку Return ◁</string>
+    <string name="converter_header">Конвертер валют</string>
+    <string name="convert_btn">Конвертувати</string>
+</resources>
